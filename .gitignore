@@ -1,2 +1,4 @@
 ###> symfony directory###
 /symfony/
+###> jetbrains directory###
+.idea/
